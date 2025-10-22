@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-       $nome - "Cristiane Ferreira";
+       $nome = "Cristiane Ferreira";
        echo "Hoje é dia" . date("dd/mm/yyyy") . "e agora são" . date("HH:ii:ss");
        echo " <h1> Meu nome é: $nome </h1>";
     ?>
